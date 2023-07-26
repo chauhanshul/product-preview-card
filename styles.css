@@ -64,6 +64,10 @@ h1{
   background-color: hsl(158, 36%, 37%);
   color: hsl(0, 0%, 100%);
 }
+.nopadding{
+  padding: 0 !important;
+  
+}
 
 
 
