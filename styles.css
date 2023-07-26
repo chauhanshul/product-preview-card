@@ -79,6 +79,9 @@ h1{
   .img-container{
     background-image: url('images/image-product-mobile.jpg');
   }
+  .product-img{
+    display: none;
+  }
 }
 
 
