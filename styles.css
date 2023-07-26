@@ -72,7 +72,7 @@ h1{
 @media (max-width: 1440px){
   .container-fluid{
     height: 90vh;
-    width: 97vw;
+    width: 95%;
 
   }
 
