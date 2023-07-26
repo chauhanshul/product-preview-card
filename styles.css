@@ -64,3 +64,17 @@ h1{
   background-color: hsl(158, 36%, 37%);
   color: hsl(0, 0%, 100%);
 }
+
+
+
+
+
+@media (max-width: 1440px){
+  .container-fluid{
+    height: 50vh;
+  }
+}
+
+
+
+
