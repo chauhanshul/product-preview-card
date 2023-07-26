@@ -80,6 +80,7 @@ h1{
     background-image: url('images/image-product-mobile.jpg');
     background-repeat: no-repeat;
     background-size: contain;
+    height: 12rem;
   }
   .product-img{
     display: none;
