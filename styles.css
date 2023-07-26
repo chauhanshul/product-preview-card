@@ -85,6 +85,9 @@ h1{
   .product-img{
     display: none;
   }
+  .txt-color{
+    margin: 5% 0;
+  }
 }
 
 
