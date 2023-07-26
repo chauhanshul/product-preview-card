@@ -9,9 +9,6 @@ body{
   color: hsl(228, 45%, 44%);
 }
 .container-fluid{
-  display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
 }
 .container{
@@ -22,6 +19,7 @@ body{
   display: flex;
   box-shadow: 1px 1px 5px;
   background-color: hsl(0, 0%, 100%);
+  margin: 5% 25%;
 }
 .product-img{
   max-width: 100%;
