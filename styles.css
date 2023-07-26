@@ -71,8 +71,8 @@ h1{
 
 @media (max-width: 1440px){
   .container{
-    height: 85%;
-    width: 95%;
+    height: 85vh;
+    width: 70vw;
 
   }
 }
