@@ -70,15 +70,11 @@ h1{
 
 
 @media (max-width: 1440px){
-  .container-fluid{
+  .container{
     height: 85%;
     width: 95%;
 
   }
-  body{
-    background-color: black;
-  }
-
 }
 
 
